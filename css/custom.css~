@@ -112,7 +112,7 @@ p.custom-projects {
 
 .jumbotron#projects, .jumbotron#contact, .jumbotron#about {
     background-color: #f4f4f4;
-    margin-bottom: 0;
+    margin-bottom: -60px;
 }
 
 .container.projects {
