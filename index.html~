@@ -1,42 +1,38 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- @author: Karan Goel-->
-<!-- @email: karan@goel.io-->
+
 <html lang="en">
 
 <head>
-    <title>Karan Goel</title>
+    <title>Wasim Thabraze</title>
     <meta charset="utf-8" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="keywords" content="Karan Goel, University of Washington, UW, Seattle" />
-    <meta name="description" content="Karan Goel is a developer, and student at University of Washington." />
-    <link rel="alternate" type="application/atom+xml" href="https://goel.io/rss" />
+    <meta name="keywords" content="Wasim Thabraze, Wasim, github, opensource, openflock, hacks" />
     <meta name="theme-color" content="#444444" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-    <link rel="stylesheet" href="/css/fa.css">
+    <link rel="stylesheet" href="css/fa.css">
             
-    <meta property="og:title" content="Karan Goel" />
-    <meta property="og:url" content="http://karan.goel.io" />
-    <meta property="og:site_name" content="Karan Goel" />
+    <meta property="og:title" content="Wasim Thabraze" />
+    <meta property="og:url" content="http://www.thabraze.me" />
+    <meta property="og:site_name" content="Wasim Thabraze" />
     <meta property="og:type" content="website" />
 </head>
 
 <body>
     <section id="about">
-        <h1 class="intro">Hi, I'm Karan</h1>
-        <p>I'm a<b> software engineer</b> with a knack for<b> entrepreneurship.</b> I design, build, and ship software that makes the world a better place.</p>
-        <p>I'm an undergraduate at the&nbsp;<a href="http://www.washington.edu" target="_blank">University of Washington</a> studying&nbsp;<a href="http://www.cs.washington.edu" target="_blank">Computer Science</a> . I've worked at a few places: Google, Madrona Venture Labs, Lenskart.com. Here's my&nbsp;<a href="/resume" target="_blank">resume</a>.</p><i>Quick Links:&nbsp;<a href="#work">Work</a> -&nbsp;<a href="#projects">Projects</a> -&nbsp;<a href="https://twitter.com/karangoel" target="_blank">Twitter</a> -&nbsp;<a href="https://github.com/karan" target="_blank">Github</a></i>
+        <h1 class="intro">Hi, I'm Wasim</h1>
+        <p>I'm a<b> software engineer</b> with a knack for<b> programming.</b> I design, build, and ship software that makes the world a better place.</p>
+        <p>I'm an undergraduate at the&nbsp;<a href="#" target="_blank">University of Osmania</a> studying&nbsp;<a href="#" target="_blank">Computer Science</a> . I've interned at Zemoso Labs where I worked on Image clustering. Here's my&nbsp;<a href="/resume" target="_blank">resume</a>.</p><i>Quick Links:&nbsp;<a href="#work">Work</a> -&nbsp;<a href="#projects">Projects</a> -&nbsp;<a href="https://twitter.com/imwaseem18" target="_blank">Twitter</a> -&nbsp;<a href="https://github.com/waseem18" target="_blank">Github</a></i>
     </section>
     <section id="habits">
         <h1>The Habits</h1>
         <p>I'm obsessed about some things and try to do them regularly. If you'd like to get to know me better, check them out.</p>
         <div class="grid grid-pad">
-            <div class="col-1-4"><a href="http://github.com/karan" role="button" target="_blank"><i class="fa fa-2x fa-github"></i><br/>Coding</a>
+            <div class="col-1-4"><a href="http://github.com/waseem18" role="button" target="_blank"><i class="fa fa-2x fa-github"></i><br/>Coding</a>
             </div>
-            <div class="col-1-4"><a href="http://twitter.com/KaranGoel" role="button" target="_blank"><i class="fa fa-2x fa-twitter"></i><br/>Tweeting</a>
+            <div class="col-1-4"><a href="http://twitter.com/imwaseem18" role="button" target="_blank"><i class="fa fa-2x fa-twitter"></i><br/>Tweeting</a>
             </div>
-            <div class="col-1-4"><a href="http://goel.io/reading" role="button" target="_blank"><i class="fa fa-2x fa-book"></i><br/>Reading</a>
-            </div>
+            
             <div class="col-1-4"><a href="http://goel.io" role="button" target="_blank"><i class="fa fa-2x fa-pencil"></i><br/>Writing</a>
             </div>
         </div>
