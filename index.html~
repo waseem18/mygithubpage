@@ -18,11 +18,11 @@
     <meta property="og:type" content="website" />
 </head>
 
-<body>
+<body>.
     <section id="about">
         <h1 class="intro">Hi, I'm Wasim</h1>
         <p>I'm a<b> software engineer</b> with a knack for<b> programming.</b> I design, build, and ship software that makes the world a better place.</p>
-        <p>I'm an undergraduate at the&nbsp;<a href="#" target="_blank">University of Osmania</a> studying&nbsp;<a href="#" target="_blank">Computer Science</a> . I've interned at Zemoso Labs where I worked on Image clustering. Here's my&nbsp;<a href="/resume" target="_blank">resume</a>.</p><i>Quick Links:&nbsp;<a href="#work">Work</a> -&nbsp;<a href="#projects">Projects</a> -&nbsp;<a href="https://twitter.com/imwaseem18" target="_blank">Twitter</a> -&nbsp;<a href="https://github.com/waseem18" target="_blank">Github</a></i>
+        <p>I'm an undergraduate at the&nbsp;<a href="#" target="_blank">University of Osmania</a> studying&nbsp;<a href="#" target="_blank">Computer Science</a> . I've interning at Zemoso Labs where I work on Image clustering. <!--p>Here's my&nbsp;<a href="/resume" target="_blank">resume</a></p-->.</p><i>Quick Links:&nbsp;<a href="#work">Work</a> -&nbsp;<a href="https://github.com/waseem18">Projects</a> -&nbsp;<a href="https://twitter.com/imwaseem18" target="_blank">Twitter</a> -&nbsp;<a href="https://github.com/waseem18" target="_blank">Github</a></i>
     </section>
     <section id="habits">
         <h1>The Habits</h1>
@@ -37,86 +37,31 @@
             </div>
         </div>
     </section>
-    <section id="work">
-        <h1>Work</h1>
+    
         <div class="grid">
-            <h3>Mattermark</h3><small><b>Software Engineering Intern</b><span class="work-date">Jan - Mar '16 - Seattle</span></small>
-            <hr/>
-            <p>Working with the backend team at Mattermark - a startup aiming to organize the world's business information.</p>
-            <h3>Google</h3><small><b>Software Engineering Intern</b><span class="work-date">Jun - Sep '15 - Mountain View</span></small>
-            <hr/>
-            <p>Worked with the<b> Google Mobile Platform Developer Relations</b> team to produce an&nbsp;<a href="https://github.com/googlesamples/gcm-playground" target="_blank">open source playground</a> for Google Cloud Messaging using Go (Golang), Polymer and Android and iOS.</p>
-            <h3>Madrona Venture Labs</h3><small><b>Software Engineering Intern</b><span class="work-date">Mar - Jun '15 - Seattle</span></small>
-            <hr/>
-            <p>Worked with Madrona Venture Labs, a startup studio, to build ReplyYes.com - an ecommerce-over-text startup. Work included rapid prototyping in Rails and user testing.</p>
-            <h3>Google</h3><small><b>Software Engineering Intern</b><span class="work-date">Jun - Sep '14 - Mountain View</span></small>
-            <hr/>
-            <p>Worked with the&nbsp;<b>Street View (Maps)</b> team to make the data ingest pipeline more reliable and faster (for data center uploads).</p>
-            <h3>Lenskart.com</h3><small><b>Data Analysis Intern</b><span class="work-date">Jun - Aug '13 - New Delhi</span></small>
-            <hr/>
-            <p>Worked as a&nbsp;<b>Data Analyst</b> and shipped two custom dashboards with realtime data streams using Tableau.</p>
-        </div>
-        <p>At the UW, I started the first, and the biggest, developer club -&nbsp;<a href="https://www.facebook.com/pages/UW-Hackers/749411328459500" target="_blank">UW Hackers</a> - to expose students to modern technology not present in the classroom. I also founded and lead the biggest student hackathon here -&nbsp;<a href="http://dubhacks.co/" target="_blank">DubHacks</a> (<a href="http://www.geekwire.com/2014/inside-dubhacks-uw-hosts-inaugural-collegiate-hackathon/" target="_blank">GeekWire coverage</a>).</p>
-        <p>From Aug 2012 - Aug 2013, I assisted&nbsp;<a href="http://jeffhuang.com/" target="_blank">Jeff Huang</a> as a&nbsp;<b>Research Assistant</b>. As part of the research, I collected data, ran statistical tests, visualized the findings and published a&nbsp;<a href="https://medium.com/@karan/how-do-spammers-harvest-your-e-mail-address-3d30c77a019a" target="_blank">blog post</a> about the results.</p>
-    </section>
-    <section id="media">
-        <h1>Interviews / Press</h1>
-        <ul>
-            <li><span>May 2015:&nbsp;</span><a href="http://thehustlermind.com/2015/05/09/interview-karan-goel/" target="_blank"><b>The Hustler Mind</b> - Interview</a>
-            </li>
-            <li><span>March 2015:&nbsp;</span><a href="http://hackathon.posthaven.com/karan-goel-threw-dubhacks-in-the-pacific-northwest" target="_blank"><b>Sponsorship Hacks</b> - Karan Goel threw DubHacks in the Pacific Northwest</a>
-            </li>
-            <li><span>Dec 2014:&nbsp;</span><a href="http://blogs.intel.com/evangelists/2014/12/31/meet-hackers-karan-goel/" target="_blank"><b>Intel Blog</b> - Meet The Hackers: Karan Goel</a>
-            </li>
-            <li><span>Dec 2014:&nbsp;</span><a href="http://www.geekwire.com/2014/karan-goel/" target="_blank"><b>GeekWire</b> - Karan Goel cultivates a hacker culture at the University of Washington</a>
-            </li>
-        </ul>
-    </section>
-    <section id="projects">
-        <h1>Projects</h1>
-        <p>I started working on projects in the summer of 2013. You can check out my open source projects&nbsp;<a href="http://github.com/karan" target="_blank">on Github.</a> Here are some of the best ones:</p>
-        <ul>
-            <li><a href="https://github.com/karan/slashgif" target="_blank">slashgif</a> - Post GIFs to Twitter by doing "@slashgif coffee break"</li>
-            <li><a href="https://bumperapp.co/" target="_blank">Bumper</a> - An app to schedule Uber rides in advance.</li>
-            <li><a href="https://github.com/karan/add-a-license-please" target="_blank">Add a License Please</a> - A bot that crawls Github for projects without any license, and asks the owner to add a license.</li>
-            <li><a href="https://github.com/karan/slack-overflow" target="_blank">Slack Overflow</a> - Search StackOverflow right from Slack without coming off as dumb.</li>
-            <li><a href="https://github.com/karan/joe" target="_blank">joe</a> - A .gitignore magician in your command line. Joe generates .gitignore files from the command line for you.</li>
-            <li><a href="http://squall.io/" target="_blank">Squall.io</a> - Compose a tweet with no character limit and post it as an image. (Started as&nbsp;<a href="http://storming.me/" target="_blank">Storming.me)</a>
-            </li>
-            <li><a href="http://www.hinightingale.me/" target="_blank">Nightingale</a> - Personal music playlist powered by your Twitter friends.</li>
-            <li><a href="https://github.com/karan/jReddit" target="_blank">Jreddit</a> - Java wrapper for Reddit API.</li>
-            <li><a href="https://karan.github.io/SoundWall" target="_blank">SoundWall</a> - Faster music discovery using a grid interface</li>
-            <li><a href="https://github.com/karan/validator.dart" target="_blank">validator.dart</a> - String validation and sanitization library for Dart</li>
-        </ul>
-        <br/>
-        <div class="grid">
-            <h3>Web Apps</h3>
+            <h3>Projects</h3>
             <hr/>
             <ul>
-                <li><a href="http://www.goharmonic.com" target="_blank">Harmonic</a> - Tinder for music. #1 at Facebook PNW Hackathon '14</li>
-                <li><a href="https://github.com/karan/ZipUp" target="_blank">ZipUp</a> - Yelp for Bathrooms. #1 at CodeDay Seattle Jan '14</li>
-                <li><a href="http://tweeny.goel.im/" target="_blank">What would I tweet?</a> - Tweet generator based on Markov probabilities</li>
-                <li><a href="http://karan.github.io/griddit" target="_blank">griddit</a> - Orgasmic interface for image subreddits</li>
-                <li><a href="https://karan.github.io/scInstant" target="_blank">SoundCloud Instant</a> - Instant search for SoundCloud</li>
-                <li><a href="http://s.goel.im/" target="_blank">s</a> - High-performance, anonymous URL shortener</li>
+                <li><a href="http://www.openflock.co" target="_blank">Openflock</a> - Openflock is a product where users can promote their projects and gain help.</li>
+                <li><a href="https://github.com/waseem18/Peer-Torrenter" target="_blank">Peer Torrenter</a> - Peer to peer application based on Bit Torrent Protocol. Implemented Asynchronous Event Driven Approach to avoid Multi Thread Complexity.</li>
+                <li><a href="#" target="_blank">PyCluster</a> - PyCluster is a mini image custering engine which categorizes the given images into various categories. (Currently building!)</li>
+                <li><a href="#" target="_blank">Ping</a> - Ping is a video, audio, screen and file sharing service built using WebRTC.</li>
+                <li><a href="https://karan.github.io/scInstant" target="_blank">Hacks</a> - A terminal utility to find upcoming Hackathons near you or at a particular location. Trended on GitHub.</li>
+                <li><a href="http://s.goel.im/" target="_blank">Shorten It</a> - High-performance, URL shortener</li>
             </ul>
-            <h3>Native Apps</h3>
+            <h3>Open source</h3>
             <hr/>
             <ul>
-                <li><a href="https://github.com/karan/chrome-url-alias" target="_blank">URL Alias</a> - Chrome extension to set URL aliases ("m/" goes to "mail.google.com" etc)</li>
-                <li><a href="https://github.com/karan/PebBus" target="_blank">PebBus</a> - Pebble app for OneBusAway</li>
-                <li><a href="https://github.com/karan/YALT" target="_blank">YALT</a> - Lightweight and minimal flashcard app</li>
-                <li><a href="https://github.com/karan/MoodicPlayer" target="_blank">Moodic Player</a> - Builds a music playlist based on user's mood</li>
+                <li><a href="https://github.com/waseem18/oh-mainline" target="_blank">Openhatch</a> - Proposed and fixed bugs related to cookies and session.</li>
+                <li><a href="https://github.com/karan/PebBus" target="_blank">Mozilla/Zamboni</a> - Resolved a bug and improved code efficiency by deleting unwanted code and adding few extra lines of code.</li>
             </ul>
-            <h3>Other Projects</h3>
+            <h3>Currently building..</h3>
             <hr/>
             <ul>
-                <li><a href="https://github.com/karan/Projects" target="_blank">100+ Projects</a> - List of 100+ practical, language-agnostinc projects. 6k+ stars</li>
-                <li><a href="https://github.com/karan/RedditAgain" target="_blank">RedditAgain</a> – Automates migrating a Reddit account to a new one</li>
-                <li><a href="https://github.com/karan/sopins" target="_blank">Social Pins</a> – Social badges on the fly (Twitter, Facebook / png, svg)</li>
+                <li><a href="https://github.com/karan/Projects" target="_blank">Open Talk</a> - Currently I'm planning to buid a commenting system similar to Disqus which is open source and supports dynamic websites. Trying to use the concepts of Multithreading and concurrency along with technologies like Node JS and Python Twisted.</li>
             </ul>
         </div>
-        <p>If you would like to be notified when I release a new project, you can&nbsp;<a href="http://eepurl.com/SRIPT" target="_blank">leave your email here</a>.</p>
+
     </section>
     <section id="contact">
         <h1>Connect</h1>
@@ -124,17 +69,17 @@
         <p>I try to be very responsive through various channels and read everything inbound. If you have cool things to tell me, you can get in touch through the following ways (in decreasing order of preference/activity):
         </p>
         <div class="grid grid-pad">
-            <div class="col-1-3"><a href="http://twitter.com/KaranGoel" role="button" target="_blank"><i class="fa fa-2x fa-twitter"></i></a>
+            <div class="col-1-3"><a href="http://twitter.com/imwaseem18" role="button" target="_blank"><i class="fa fa-2x fa-twitter"></i></a>
             </div>
-            <div class="col-1-3"><a href="/cdn-cgi/l/email-protection#fe959f8c9f90be99919b92d09791" role="button" target="_blank"><i class="fa fa-2x fa-envelope-o"></i></a>
+            <div class="col-1-3"><a href="mailto:waseem.tabraze@gmail.com" role="button" target="_blank"><i class="fa fa-2x fa-envelope-o"></i></a>
             </div>
-            <div class="col-1-3"><a href="http://www.linkedin.com/in/kgoel" role="button" target="_blank"><i class="fa fa-2x fa-linkedin"></i></a>
+            <div class="col-1-3"><a href="http://github.com/waseem18" role="button" target="_blank"><i class="fa fa-2x fa-github"></i></a>
             </div>
         </div>
     </section>
-    <section id="footer">
-        <p>Created by Karan Goel.</p>
-    </section>
+    <!--section id="footer">
+        <p></p>
+    </section-->
     <script type="text/javascript">
         /* <![CDATA[ */
         (function() {
